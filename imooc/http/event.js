@@ -5,3 +5,6 @@ function clickIt(e){
 var button = docunment.getElementById('#button')
 
 button.addEventListener('click',clickIt)
+
+
+//EvenEmitter
